@@ -1,0 +1,14 @@
+{
+  "prettier.printWidth": 120,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "[jsp]": {},
+  "emmet.includeLanguages": {
+    "jsp": "html"
+  },
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  }
+}
